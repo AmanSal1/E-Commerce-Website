@@ -23,6 +23,12 @@ This project is a full-fledged eCommerce website built using Django, a high-leve
 - **Razorpay API:** Payment gateway integration for secure transactions.
 - **Bootstrap:** Frontend framework for responsive design and UI components.
 
+![1](https://github.com/user-attachments/assets/4ac212e9-8a4b-4267-8673-20617be9b4d8)
+  
+![2](https://github.com/user-attachments/assets/56c4f059-d0db-40f0-92e9-a109b57b02a3)
+
+![3](https://github.com/user-attachments/assets/76400e39-c81d-40f2-b807-10d69480a1e4)
+
 ## Setup Instructions
 To run this project locally, follow these steps:
 
