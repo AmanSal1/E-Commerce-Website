@@ -80,7 +80,6 @@ To run this project locally, follow these steps:
 
 
 
-Contributions are welcome! Please fork this repository and create a pull request with your proposed features, enhancements, or bug fixes.
 
 
 
